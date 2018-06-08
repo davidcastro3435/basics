@@ -1,0 +1,28 @@
+{
+    "author": "Josu\u00e9 Castro",
+    "dependencies": {},
+    "keywords": [],
+    "name": "basics",
+    "pebble": {
+        "displayName": "Basics",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "2e2fe6d3-5c5b-4b57-8de1-0dc48dc622e1",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
